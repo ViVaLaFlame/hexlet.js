@@ -1,0 +1,24 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ViVaLaFlame/hexlet.js.git"
+  },
+  "keywords": [
+    "hexlet",
+    "task"
+  ],
+  "bugs": {
+    "url": "https://github.com/ViVaLaFlame/hexlet.js/issues"
+  },
+  "homepage": "https://github.com/ViVaLaFlame/hexlet.js#readme"
+}
